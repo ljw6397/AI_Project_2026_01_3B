@@ -3,6 +3,12 @@
 
 ![Image](https://github.com/ljw6397/AI_Project_2026_01_3B/blob/main/PROMPTADV/00002-2807294722.png?raw=true)
 
+![Image](https://github.com/ljw6397/AI_Project_2026_01_3B/blob/main/PROMPTADV/00109-1658045745.png?raw=true)
+
+![Image](https://github.com/ljw6397/AI_Project_2026_01_3B/blob/main/PROMPTADV/00111-3818531726.png?raw=true)
+
+![Image](https://github.com/ljw6397/AI_Project_2026_01_3B/blob/main/PROMPTADV/00110-2394083669.png?raw=true)
+
 > masterpiece, (1girl : 1.0), (flower: 1.0), (tree : 1.0), (sky : 1.7)
 
 # prompt alternating
