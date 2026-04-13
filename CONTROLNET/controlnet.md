@@ -27,7 +27,29 @@
 ![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/9d44aeb7356e884b235f664dbdb340cc901a1230/CONTROLNET/MLSD/00014-424185324.png)
 
 
+## SoftEdge
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/SoftEdge/00000-458684355.png)
 
 
 
+## Scribble
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/Scribble/00033-260692379.png)
+
+
+
+## Shuffle
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/Shuffle/00034-2622198343.png)
+
+
+
+## NormalMap
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/NormalMap/tmp4fmtc7q2.png)
+
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/NormalMap/00035-3957810723.png)
+
+
+## LineArt
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/Lineart/00026-1613522270.png)
+
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/Lineart/00032-4099976459.png)
 
