@@ -45,7 +45,7 @@
 ## NormalMap
 ![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/NormalMap/tmp4fmtc7q2.png)
 
-![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/33e7dea80849bad9de8a9e4f14bb76532a7bd250/CONTROLNET/NormalMap/00035-3957810723.png)
+![image](https://raw.githubusercontent.com/ljw6397/AI_Project_2026_01_3B/547bf385e94152861a97fdd88f854009f631196f/CONTROLNET/NormalMap/00013-2648552920.png)
 
 
 ## LineArt
